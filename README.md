@@ -29,4 +29,7 @@ giveTokenVote("☿", 1, 0, 4, false)
 
 getVotesOnProposal("☿",0,0)
 
+# Designs
+![designs](./talis_registry_frontend.png)
+
 MIT License
